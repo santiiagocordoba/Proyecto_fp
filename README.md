@@ -35,7 +35,6 @@ Las decisiones de diseño más destacadas de este tipo son:
 ## Funciones implementadas
 En este proyecto se han implementado las siguientes funciones. El módulo principal es el módulo fifa21.py, así que aquí es donde se hará referencia a cada uno de los bloques de las entregas.
 
-
 ## Entrega 1
 ### fifa21.py
 * **lee_fifa(fichero)**: lee los datos del fichero csv 'fifa21.csv'
