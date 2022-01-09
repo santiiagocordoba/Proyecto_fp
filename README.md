@@ -66,8 +66,6 @@ En este proyecto se han implementado las siguientes funciones. El módulo princi
 * **jugadores_posicion(FIFA, hits)**: Lee el csv y devuelve los jugadores que coinciden con el valor de la clave
 * **top_diccionario_clave_equipo(FIFA, team, n)**: Lee el csv y devuelve los 'n' diccionarios filtrados por el valor clave de la función
 
-
-
 ### fifa21test.py  
 * **test_obten_registro_cantidad_de_jugadores(FIFA)**:Muestra el pais con más jugadores registrados registrados en Fifa 21
 * **test_menos_media(FIFA, position ='RW',n =4)**: Muestra los 'n' jugadores de la posicion que queramos con menos media
