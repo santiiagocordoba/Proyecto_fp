@@ -83,7 +83,7 @@ if __name__ == '__main__':
     #test_obten_registro_cantidad_de_jugadores(FIFA)
     #test_menos_media(FIFA, position ='RW',n =4) 
     #test_jugadores_posicion(FIFA, hits=68)
-    test_top_diccionario_clave_equipo(FIFA, team ="FC Barcelona " , n = 4)
+    #test_top_diccionario_clave_equipo(FIFA, team ="FC Barcelona " , n = 4)
     
     
     

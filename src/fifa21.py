@@ -98,6 +98,7 @@ def jugadores_posicion(FIFA, hits):
                 dicc[f.name]= f.hits
     return dicc
 #
+
 def top_diccionario_clave_equipo(FIFA, team, n):
     ordenar = sorted([ d for d in FIFA], key= lambda x: x.age, reverse=True)
     diccionario= dict()
